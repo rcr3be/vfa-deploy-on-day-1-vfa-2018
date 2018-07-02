@@ -204,27 +204,23 @@ a:visited {
   background-size: cover;
   background-repeat: no-repeat;
 }
-
 .vitals-container {
   position: relative;
   min-height: 360px;
   padding-bottom: 50px;
   border-bottom: 1px solid #e4e4e4;
 }
-
 .social-icon-container {
   width: 200px;
   margin: 0 auto;
   padding-top: 110px;
   text-align: center;
 }
-
 .social-icon {
   width: 30px;
   height: 30px;
   margin: 0 8px;
 }
-
 .profile-photo {
  background-image: url("https://learn-verified.s3.amazonaws.com/profile-photo-placeholder.png");
   background-position: center;
@@ -239,13 +235,11 @@ a:visited {
   margin: 0 auto;
   border-radius: 100px;
 }
-
 .vitals-text-container {
   width: 100%;
   text-align: center;
   margin-top: 30px;
 }
-
 .profile-name,
 .profile-location {
   font-weight: normal;
@@ -357,7 +351,13 @@ a:visited {
   background-image: url("link to imgur card photo");
 }
 */
+#rosalie-reuss-cover {
+ background-image: url("https://imgur.com/a/xqRfNab");
+}
 
+#rosalie-reuss-card {
+ background-image: url("https://imgur.com/a/LU6dDsd");
+}
 
 /*
  * MEDIA QUERIES
